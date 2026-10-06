@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+venv/
+ts_env/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Generated / large files
+*.pkl
+*.mp4
+*.mov
+*.srt
+media/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
