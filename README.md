@@ -4,7 +4,7 @@ Code from the first video on the **Backtesting Lab** YouTube channel: a Python b
 
 > **Disclaimer:** I am not a SEBI-registered investment adviser or research analyst. This repository is for education only. It is not investment advice, a recommendation, or a forecast. Backtests are hypothetical, ignore many real-world factors, and do not predict future returns. Investing involves risk, including loss of capital.
 
-**Video:** [add link after publishing]
+**Video:** https://youtu.be/VLyYHmNKvKQ
 
 ## What the code does
 
