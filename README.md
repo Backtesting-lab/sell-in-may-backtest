@@ -26,7 +26,7 @@ The position starts earning two days after the signal, to avoid look-ahead bias.
 ## Run it
 
 ```bash
-git clone https://github.com/<your-username>/sell-in-may-backtest.git
+git clone https://github.com/Backtesting-lab/sell-in-may-backtest.git
 cd sell-in-may-backtest
 python -m venv venv
 venv\Scripts\activate        # Windows (macOS/Linux: source venv/bin/activate)
