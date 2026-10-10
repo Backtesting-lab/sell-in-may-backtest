@@ -7,7 +7,7 @@ Code from the first video on the **Backtesting Lab** YouTube channel: a Python b
 **Video:** https://youtu.be/VLyYHmNKvKQ
 
 ## What the code does
-
+- Data: Yahoo Finance via yfinance, for personal and educational use only, not affiliated with Yahoo. Nothing here is a claim about returns or performance.
 - **Rule tested:** invested November to April, in cash May to October.
 - **Markets:** USA (S&P 500), UK (FTSE 100), France (CAC 40), Japan (Nikkei 225), Hong Kong (Hang Seng), China (SSE Composite), India (Nifty 50).
 - **Same for every market:** the same rule, the same trading cost and the same two-day execution delay. Only the cash rate differs per country (rough historical approximations).
